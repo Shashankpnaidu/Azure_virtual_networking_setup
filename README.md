@@ -1,5 +1,7 @@
 **Shashank Prakash Naidu**
 
+![Image description]([path/to/image.jpg](https://learn.microsoft.com/en-us/azure/nat-gateway/media/tutorial-nat-gateway-load-balancer-public-portal/resources-diagram.png#lightbox))
+
 **Overview:**
 
 This diagram illustrates a basic Azure network architecture with a load balancer, two virtual machines (VMs), a network security group (NSG), and a subnet within a virtual network (VNet). It demonstrates how traffic is routed from the internet to the VMs.
